@@ -8,7 +8,6 @@
 
 * 🚀 Passionate about aerospace engineering and the real-world applications of physics & calculus
 
-
 * 📁 This Github also serves as my personal archive & an open resource
 
 
@@ -18,5 +17,32 @@
 Please reach out to me at: [sultanimellad@gmail.com]
 
 Always happy to answer questions or collaborate!
+
+
+## ✅ Languages and Tools
+
+<p align="left">
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  
+  <!-- MATLAB -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
+
+  <!-- C -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+
+  <!-- Arduino -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
+
+
+## 🌱 I am currently learning: 
+<!-- LaTeX -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" height="40"/><!-- ROS (Robot Operating System) -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1200px-Ros_logo.svg.png" width="40" height="40"/><!-- OpenCV -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40" height="40"/><!-- Julia -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" width="40" height="40"/> </p>
 
 ![3D Graph](./profile-3d-contrib/profile-night-rainbow.svg)
