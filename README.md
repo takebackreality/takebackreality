@@ -45,4 +45,10 @@ Always happy to answer questions or collaborate!
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40" height="40"/><!-- Julia -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" width="40" height="40"/> </p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=takebackreality&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+  </a>
+</p>
+
 ![3D Graph](./profile-3d-contrib/profile-night-rainbow.svg)
