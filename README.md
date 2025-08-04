@@ -47,7 +47,7 @@ Always happy to answer questions or collaborate!
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=takebackreality&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=takebackreality&theme=highcontrast&hide_border=true&border_radius=10" alt="GitHub Streak"/>
   </a>
 </p>
 
