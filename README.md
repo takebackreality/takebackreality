@@ -12,12 +12,6 @@
 
 
 
-📩 Questions?
-
-Please reach out to me at: [sultanimellad@gmail.com]
-
-Always happy to answer questions or collaborate!
-
 
 ## ✅ Languages and Tools
 
